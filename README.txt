@@ -1,3 +1,4 @@
+# INSTALAÇÃO: 
 
 1.  Baixe a img deste repos.: 
 > https://github.com/AeolusUX/ArkOS-K36 
@@ -12,5 +13,6 @@ Se o arquivo vier em .tar ou algo do tipo o extraia, com o .img em mãos prossig
 5. Quando o processo finalizar, o console irá reiniciar, desligue seu console de forma segura, segurando botão power até desligar e o aparelho não apresentar nenhum led ligado! **CASO CONTRÁRIO VOCÊ PODE CORROMPER SEU SD**, com o console desligado, tire o cartão SD do console, insira no PC e pode transferir seus , ports , temas e etc. para a partição **easyroms** que irá aparecer no cartão SD.
 
 6. PRONTO! Pode inserir seu cartão no console novamente e aproveitar!
+
 
 
