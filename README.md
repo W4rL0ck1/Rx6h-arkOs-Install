@@ -1,7 +1,8 @@
 # INSTALLATION - EN  
 
 1. **Download the image file** from the repository:  
-   > https://github.com/AeolusUX/ArkOS-K36  
+   > https://github.com/AeolusUX/ArkOS-K36 or 
+   > https://github.com/W4rL0ck1/Rx6h-arkOs-Install/releases/tag/1.0
 
    - If the file is provided in `.tar` or similar format, extract it.  
    - Ensure you have the `.img` file available before proceeding.  
@@ -25,7 +26,8 @@
 # INSTALAÇÃO - PT-BR : 
 
 1.  Baixe a img deste repos.: 
-> https://github.com/AeolusUX/ArkOS-K36 
+   > https://github.com/AeolusUX/ArkOS-K36 ou
+   > https://github.com/W4rL0ck1/Rx6h-arkOs-Install/releases/tag/1.0
 
 Se o arquivo vier em .tar ou algo do tipo o extraia, com o .img em mãos prossiga para os próximos passos.
 
@@ -38,6 +40,7 @@ Se o arquivo vier em .tar ou algo do tipo o extraia, com o .img em mãos prossig
 5. Quando o processo finalizar, o console irá reiniciar, desligue seu console de forma segura, segurando botão power até desligar e o aparelho não apresentar nenhum led ligado! **CASO CONTRÁRIO VOCÊ PODE CORROMPER SEU SD**, com o console desligado, tire o cartão SD do console, insira no PC e pode transferir seus , ports , temas e etc. para a partição **easyroms** que irá aparecer no cartão SD.
 
 6. PRONTO! Pode inserir seu cartão no console novamente e aproveitar!
+
 
 
 
