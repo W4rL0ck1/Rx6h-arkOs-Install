@@ -27,8 +27,7 @@ Use the dArkOs instead of this version:
    - **Failure to follow this step may result in SD card corruption.**  
    - With the console powered off, remove the SD card, insert it into a PC, and transfer your ports, themes, and other files to the **easyroms** partition.  
 
-6. Reinsert the SD card into the console. The system is now ready for use.  
-
+6. Reinsert the SD card into the console. The system is now ready for use.
 
 
 
@@ -52,6 +51,6 @@ Se o arquivo vier em .tar ou algo do tipo o extraia, com o .img em mãos prossig
 
 
 
-
+# original branch and contributor: https://github.com/AeolusUX/ArkOS-K36
 
 
